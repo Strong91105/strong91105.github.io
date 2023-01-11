@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-
-
-
 <html>
-<body>
+  <body>
 
-  <h1> Home </h1>
+    <h1> Home </h1>
   
-  <p1> hello you nonce<p1>
+    <p1> hello you nonce<p1>
   
-</body>
+  </body>
 </html>  
