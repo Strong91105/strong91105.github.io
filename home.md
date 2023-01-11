@@ -5,6 +5,7 @@
 <meta http-equiv="refresh" content="0; URL=https://strong91105.github.io/">
 <link rel="canonical" href="https://strong91105.github.io/home">
 
+
 <html>
 <body>
 
